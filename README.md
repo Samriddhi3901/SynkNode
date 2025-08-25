@@ -1,4 +1,4 @@
-# 🔄 SynkNode - Next-Gen Synchronization Platform
+# 🔄 SynkNode -> Next-Gen Synchronization Platform
 
 <div align="center">
   <h3>Seamless data synchronization and real-time collaboration built for the modern web</h3>
